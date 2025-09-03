@@ -3,11 +3,11 @@
 <p align="left">
 Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender novas tecnologias.<br><br>
 
-📚 Atualmente cursando <strong>Análise e Desenvolvimento de Software</strong> no Ibmec (3º Semestre).<br>
+📚 Atualmente cursando <strong>Análise e Desenvolvimento de Software</strong> no Ibmec.<br>
 
 🎯 Focado em desenvolvimento <strong>Back-end</strong>.<br>
 
-📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/joaovictorgois/" target="_blank">LinkedIn</a>!
+📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/joao-gois-de-otoni/" target="_blank">LinkedIn</a>!
 </p>
 
 <h3 align="left">🛠️ Linguagens e Ferramentas</h3>
