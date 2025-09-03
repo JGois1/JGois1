@@ -1,16 +1,35 @@
-## Hi there 👋
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
-<!--
-**JGois1/JGois1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender novas tecnologias.<br><br>
 
-Here are some ideas to get you started:
+📚 Atualmente cursando <strong>Análise e Desenvolvimento de Software</strong> no Ibmec (3º Semestre).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Focado em desenvolvimento <strong>Back-end</strong> com Java e Spring Boot.<br>
+
+📫 Você pode me encontrar no <a href="https://www.linkedin.com/in/joaovictorgois/" target="_blank">LinkedIn</a>!
+</p>
+
+<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo do java"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo do spring"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo do python"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo do javascript"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo do html5"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo do css3"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo do git"  />
+</div>
+
+<h3 align="left">🔥 Minhas Estatísticas</h3>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=JGois1&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="gráfico de streaks"  />
+</div>
