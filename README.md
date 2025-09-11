@@ -1,4 +1,4 @@
-<h3 align="left">👩‍💻 Sobre Mim</h3>
+<h3 align="left">Sobre Mim</h3>
 
 <p align="left">
 Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender novas tecnologias.<br><br>
