@@ -19,6 +19,8 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="logo do csharp"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="logo do angular"  />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo do python"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo do javascript"  />
@@ -26,6 +28,9 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo do git"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="logo do azure"  />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo do mysql"  />
+<img width="12" />
+
 </div>
 
 <h3 align="left">🔥 Minhas Estatísticas</h3>
