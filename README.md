@@ -24,9 +24,9 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo do javascript"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo do git"  />
-</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="logo do azure"  />
 <img width="12" />
+</div>
 
 <h3 align="left">🔥 Minhas Estatísticas</h3>
 
