@@ -15,7 +15,7 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo do java"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spirngboot/springboot-original.svg" height="40" alt="logo do springoot"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo do spring"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="logo do kotlin"  />
 <img width="12" />
