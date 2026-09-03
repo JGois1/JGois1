@@ -30,7 +30,7 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="logo do pandas"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="logo do excel"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft-excel/microsoft-excel-original.svg" height="40" alt="logo do excel"  />
 <img width="12" />
 
 </div>
