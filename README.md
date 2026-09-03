@@ -34,4 +34,4 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
   <img src="https://img.shields.io/badge/-_?style=social&logo=powerbi" height="40" alt="logo do power bi" />
   <img width="12" />
   <img src="https://img.shields.io/badge/-_?style=social&logo=microsoft-excel" height="40" alt="logo do excel" />
-</div>
+</div>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
