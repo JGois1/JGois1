@@ -27,4 +27,7 @@ Programo desde <strong>2023</strong> e estou sempre buscando evoluir e aprender 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="logo do aws" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="logo do docker" />
+  <img width="12" />
+  
 </div>
